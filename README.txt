@@ -1,9 +1,7 @@
 
-
-
 Installation Instructions:
 
-1.) clone this repository https://github.com/Arken94/DateEntityRecognizer.git from github (I have added you as a collaborator).
+1.) clone this repository https://github.com/Arken94/DateEntityRecognizer.git from github.
 
 2.) Find the file called “finddates.py” and run “python finddates.py <filename.txt>” in your terminal window to run my code. 
 
